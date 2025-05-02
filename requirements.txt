@@ -1,0 +1,12 @@
+#(keep adding more as needed: scikit-learn, transformers, etc.)
+
+flask
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+joblib
+requests
+
